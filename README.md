@@ -1,7 +1,13 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+
+
+#### Name : Naveen kumar M
+
+
+#### Roll no : 212222110028
+
+
+#### Date of experiment : 20/02/2024
 
 
 
